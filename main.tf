@@ -35,8 +35,8 @@ resource "azurerm_virtual_network" "mtsc-vn" {
   }
 
 }
-#   stop
-
+#  stop
+ 
 
 
 
